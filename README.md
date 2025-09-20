@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laythal-zamili&label=Profile%20views&color=0e75b6&style=flat" alt="laythal-zamili" /> </p>
 
-- 🔭 I’m currently working on **Travalluge**
+- 🔭 I’m currently working on **My thesis project**
 
 - 🌱 I’m currently learning **Python ,React Native,Golang**
 
