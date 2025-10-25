@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My thesis project**
 
-- 🌱 I’m currently learning **Python ,React Native**
+- 🌱 I’m currently learning **Python ,TypeScript, React Native**
 
 - 💬 Ask me about **React,JS,Node.js**
 
