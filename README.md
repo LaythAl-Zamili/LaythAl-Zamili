@@ -1,7 +1,7 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)](https://LaythAl-Zamili.io)
 <h1 align="center">Hi 👋, I'm Layth Al-Zamili</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-5346642-4461425.png">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laythal-zamili&label=Profile%20views&color=0e75b6&style=flat" alt="laythal-zamili" /> </p>
 
